@@ -1,0 +1,23 @@
+#seldefine-header{
+    margin-bottom: 0;
+}
+
+#seldefine-content{
+    background-color:lightgrey;
+}
+
+.row h1{
+    margin-bottom:50px;
+    margin-top:35px;
+}
+
+li>a{
+    
+    color: black;
+}
+
+nav>a{
+    color:black;
+    font-weight: bold;
+}
+
